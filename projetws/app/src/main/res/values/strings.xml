@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">projetws</string>
+    <array name="villes">
+        <item>Casa</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>El Jadida</item>
+    </array>
+    <string name="confirm_delete">Confirmation de la suppression</string>
+    <string name="confirm_delete_message">Êtes-vous sûr de vouloir supprimer cet étudiant?</string>
+    <string name="delete_failed">La suppression a échoué</string>
+    <string name="delete_success">La suppression fait avec succèes</string>
+
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+</resources>
